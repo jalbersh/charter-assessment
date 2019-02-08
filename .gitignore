@@ -1,0 +1,9 @@
+out
+build
+zips.jar
+.DS_Store
+.idea
+.gradle
+.git
+
+
