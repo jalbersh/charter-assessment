@@ -5,5 +5,7 @@ zips.jar
 .idea
 .gradle
 .git
-
-
+*.iml
+gradle/
+gradlew
+*.bat
